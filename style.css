@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&family=Roboto:wght@100;300;400;500;900&display=swap');
+
+html {
+	margin: 0;
+	padding: 0;
+	}
+body { 
+	
+	margin: 0; 
+	padding: 0;
+  
+	}
+p { 
+	
+    
+	}
+h3 { 
+	
+	}
+a:link { 
+	
+	}
+a:visited { 
+	
+	}
+a:hover, a:focus, a:active { 
+	
+	}
+abbr {
+	
+	}
+
+
+/* specific divs */
+.page-wrapper { 
+background-color: #405352;
+width: 70%; 
+
+	}
+
+.intro { 
+	
+width: 1473px;
+height: 398px;
+left: -23px;
+top: 0px;
+
+background: url(images/Vector.png) no-repeat;}
+
+header h1 { 
+color: white;
+ position: absolute;
+width: 399px;
+left: 525px;
+top: 109px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 1.6em;
+line-height: 29px;
+text-align: center;
+text-transform: uppercase;
+	}
+header h2 { 
+	
+position: absolute;
+width: 399px;
+height: 121px;
+left: 525px;
+top: 119px;
+font-family: 'Baskervville';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 60px;
+text-align: center;
+color: #FFFFFF;
+	}
+header {
+	padding-top: 20px;
+	height: 87px;
+}
+
+.zen-resources ul {
+position: absolute;
+left: 363px;
+top: 52px;
+}
+.zen-resources li {
+     display: inline;
+    list-style: none; 
+    float: left;
+  text-transform: uppercase;
+    line-height: 0.5rem;
+    
+}
+.zen-resources a {
+     margin: 0.9em; 
+    color: #C2D9D8;; 
+    text-decoration: none; 
+    font-weight: 400;
+     font-family:'Roboto', sans-serif;
+    font-size: 1rem;
+    }
+.zen-resources a:hover {
+    color: gray;
+}
+
+.summary {display: none;}
+
+.preamble{
+margin: 20.2em 0 0 3em;
+width: 30%;
+color: white;
+}
+
+.preamble h3 {
+  font-family: 'Baskervville';
+font-style: normal;
+font-weight: 400;
+font-size: 2em;
+line-height: 1.4em;
+margin: 0;
+}
+
+.preamble p {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 1em;
+line-height: 1.2em;
+
+}
+
+.explanation{
+margin: 2em 35em;
+width: 40%;
+color: white
+}
+
+.explanation h3 {
+  font-family: 'Baskervville';
+font-style: normal;
+font-weight: 400;
+font-size: 2em;
+line-height: 1.4em;
+margin: 0;
+}
+
+.explanation p {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 1em;
+line-height: 1.2em;
+
+}
+
+
+.design-selection ul {
+
+list-style: none;
+position: absolute;
+width: 25%;
+height: 247px;
+left: 1037px;
+top: 470px;
+}
+
+.design-selection a:link {
+    text-decoration: none;
+}
+
+
+.design-name {
+text-transform: uppercase;
+
+font-size: 16px;
+line-height: 30px;
+color: #405352;}
+
+.designer-name {
+    color: #85A8A8;
+   
+    font-family:'Roboto', sans-serif;
+}
+.extra1 {
+	}
